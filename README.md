@@ -1,4 +1,4 @@
-#Ethereum Voting DApp
+# Ethereum Voting DApp
 
 ### Configuration
 
